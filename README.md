@@ -1,6 +1,6 @@
 ## YouTube
 * Playlist
- *  https://www.youtube.com/playlist?list=PLL8cKNfgWjuuRFxgBIT613J_VHgbb_tfW
+  * https://www.youtube.com/playlist?list=PLL8cKNfgWjuuRFxgBIT613J_VHgbb_tfW
 
 ## Setup
 * Install Python
