@@ -12,7 +12,7 @@ def main():
     f = 1.0
     print(f"Varible f = {f} and is type {type(f)}")
     # str - which is a word (or "string" of characters)
-    s = "lollypop"
+    s = "garlic"
     print(f"Varible s = {s} and is type {type(s)}")
     # list - a collection of values
     l = [1, 2.0, "a"]
