@@ -9,7 +9,3 @@
   * https://code.visualstudio.com/
 * Install Python VS Code Extension
 * Install Git
-
-## TODO:
-* hangman
-* text adventure
